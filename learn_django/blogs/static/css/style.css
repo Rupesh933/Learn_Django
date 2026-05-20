@@ -1,0 +1,13 @@
+.container{
+    margin: 10px 5px;
+    background-color: aqua;
+}
+.heading{
+    color: red;
+    text-align: center;
+}
+.small_text{
+    font-size: 8px;
+    color: rgb(75, 74, 74);
+    line-height: 0;
+}
